@@ -64,6 +64,7 @@ sudo python3 network_scan.py -t 192.168.1.1/24
 - Enter the MAC addresses separated by commas: `00:aa:bb:cc:dd:ee, 11:22:33:44:55:66`
   
 ![unnamed](https://github.com/user-attachments/assets/e3cdbb29-3182-4b4e-a327-7d1db76d574d)
+
 ![unnamed](https://github.com/user-attachments/assets/6828bd55-d48a-4980-990f-c02523f0f1d8)
 
 ## Notes
